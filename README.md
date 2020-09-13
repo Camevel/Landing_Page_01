@@ -17,8 +17,8 @@ En la mercadotecnia en internet, se denomina página de aterrizaje o Landing Pag
 
 ### Autor
 
-**Carlos Garcia**
-[Cuenta de Github](https://github.com/agzsoftsi)
-[Cuenta de Twitter](https://twitter.com/karlgarmor)
+**Juan Jose Mosquera**
+[Cuenta de Github](https://github.com/SiegFried749)
+[Cuenta de Twitter](https://twitter.com/juanjosexp04)
 2020
 
